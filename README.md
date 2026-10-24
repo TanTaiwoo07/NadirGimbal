@@ -1,5 +1,8 @@
 # NadirGimbal_R2 KiCad 原理图工程
 
+项目作者与维护者：**[TanTaiwoo07](https://github.com/TanTaiwoo07)**  
+项目仓库：**[TanTaiwoo07/NadirGimbal](https://github.com/TanTaiwoo07/NadirGimbal)**
+
 Nadir 双轴（横滚+俯仰）云台主控：**STM32G431RBT6 + 双 DRV8316R + 双 AS5048A + 双 ICM-42688-P**。
 目标：相机始终稳定朝正下方，机体偏航/偏摆全防住，为 AR0234 下视相机提供稳定采集平台。
 

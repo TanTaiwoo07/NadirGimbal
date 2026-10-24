@@ -172,7 +172,7 @@ class Sheet:
         return f'''(kicad_sch (version 20230121) (generator eeschema)
   (uuid {uuid("file-"+self.fname)})
   (paper "A3")
-  (title_block (title "{self.title}") (date "2026-10-24") (rev "R2-draft") (comment1 "设计草图：打样前请在 KiCad 7+ 中运行 ERC 并按数据手册复核"))
+  (title_block (title "{self.title}") (date "2026-10-24") (rev "R2-draft") (company "TanTaiwoo07") (comment 2 "Author: TanTaiwoo07") (comment1 "设计草图：打样前请在 KiCad 7+ 中运行 ERC 并按数据手册复核"))
   (lib_symbols
 {lib}
   )

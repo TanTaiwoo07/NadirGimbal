@@ -1,7 +1,7 @@
 (kicad_sch (version 20230121) (generator eeschema)
   (uuid 4f8b6ae9-18c0-eeb2-93a2-25d3ca074801)
   (paper "A3")
-  (title_block (title "编码器小版 - 俯仰") (date "2026-10-24") (rev "R2-draft") (comment1 "设计草图：打样前请在 KiCad 7+ 中运行 ERC 并按数据手册复核"))
+  (title_block (title "编码器小版 - 俯仰") (date "2026-10-24") (rev "R2-draft") (company "TanTaiwoo07") (comment 2 "Author: TanTaiwoo07") (comment1 "设计草图：打样前请在 KiCad 7+ 中运行 ERC 并按数据手册复核"))
   (lib_symbols
 (symbol "NGR2:AS5048A" (pin_names (offset 0.508)) (in_bom yes) (on_board yes)
   (property "Reference" "U" (at 12.0 23.0 0) (effects (font (size 1.27 1.27))))

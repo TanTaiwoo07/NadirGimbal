@@ -1,7 +1,7 @@
 (kicad_sch (version 20230121) (generator eeschema)
   (uuid af23bed9-7723-e6b1-390a-ba2653cf9625)
   (paper "A3")
-  (title_block (title "电源输入保护 + 3V3") (date "2026-10-24") (rev "R2-draft") (comment1 "设计草图：打样前请在 KiCad 7+ 中运行 ERC 并按数据手册复核"))
+  (title_block (title "电源输入保护 + 3V3") (date "2026-10-24") (rev "R2-draft") (company "TanTaiwoo07") (comment 2 "Author: TanTaiwoo07") (comment1 "设计草图：打样前请在 KiCad 7+ 中运行 ERC 并按数据手册复核"))
   (lib_symbols
 (symbol "NGR2:C" (pin_names (offset 0.508)) (in_bom yes) (on_board yes)
   (property "Reference" "C" (at 7.0 5.0 0) (effects (font (size 1.27 1.27))))
